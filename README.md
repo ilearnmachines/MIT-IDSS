@@ -5,6 +5,6 @@ Data Science and Machine Learning: Making Data-Driven Decisions
 Here is the course schedule:
 
 =========================================
-![Course Schedule: ](00_Delivery_Schedule/Screenshot 2023-03-12 121656.png)
+![Course Schedule: ](https://github.com/ilearnmachines/MIT-IDSS/blob/main/00_Delivery_Schedule/Screenshot%202023-03-12%20121656.png)
 =========================================
 
